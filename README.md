@@ -1,3 +1,3 @@
 # iving_example_applet
 
-iving applet example
+iving applet example test
