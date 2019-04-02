@@ -1,3 +1,3 @@
-# iving_example_applet
+# iving_applet_grafana
 
-iving applet example testtttt
+iving applet example
